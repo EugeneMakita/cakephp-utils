@@ -1,5 +1,5 @@
 {
-    "name": "qobo/cakephp-utils",
+    "name": "eugenec138/cakephp-utils",
     "description": "CakePHP utilities",
     "type": "cakephp-plugin",
     "license": "MIT",
@@ -21,7 +21,7 @@
         "cakephp/migrations": "~1.0",
         "doctrine/annotations": "v1.4.0",
         "doctrine/instantiator": "1.0.5",
-        "friendsofcake/crud": "^4.3",
+        "friendsofcake/crud": "^5.2",
         "fzaninotto/faker": "^1.0",
         "league/csv": "^8.1",
         "league/json-guard": "^0.5",
